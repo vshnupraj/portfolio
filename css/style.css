@@ -191,7 +191,7 @@ h1::before{
 /* Styles for mobile view (max-width: 576px) */
 @media (max-width: 576px) {
   .vertical-height {
-      height:95vh;  /* Adjust the value as needed */
+      height:90vh;  /* Adjust the value as needed */
   }
 }
 /* vertical height of each page ends */
