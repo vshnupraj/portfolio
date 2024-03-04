@@ -48,7 +48,7 @@ body {
 
     --base-font-family: "Poppins", sans-serif; /*Base font family*/
     --base-font-size: 2.7vh;
-    --footer-font-size: 2vh;
+    --footer-font-size: 1.5vw;
 
     --gradiant-color-start: rgba(45, 21, 77, 1);
     --gradiant-color-end: rgba(108, 100, 139, 1);
@@ -86,7 +86,7 @@ body {
   }
   
 
-  
+
   /* progressive bar color starts */
   .bar-color{
     background-color: var(--dominant-color) !important;
