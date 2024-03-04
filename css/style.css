@@ -201,7 +201,7 @@ h1::before{
 /* Styles for mobile view (max-width: 576px) */
 @media (max-width: 576px) {
   .vertical-height {
-      height:95vh;  /* Adjust the value as needed */
+      height:100vh;  /* Adjust the value as needed */
   }
 }
 /* vertical height of each page ends */
@@ -218,9 +218,7 @@ h1::before{
 
   box-shadow: 6px 6px 10px 1px #353436;
 }
-.box-width{
-  height:max-content;
-}
+
 
 .skill-box{
   background-color: var(--secondary-color) !important;
