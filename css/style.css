@@ -276,3 +276,17 @@ h1::before{
   font-size: var(--footer-font-size);
 }
 /* footer font size ends */
+
+.btn-bd-primary {
+  --bs-btn-font-weight: 600 !important;
+  --bs-btn-color: var(--dominant-color) !important ;
+  --bs-btn-bg: var(--accent-color) !important;
+  --bs-btn-border-color: var(--accent-color) !important;
+  --bs-btn-hover-color: var(--dominant-color) !important;
+  --bs-btn-hover-bg: var(--primary-color) !important;
+  /* --bs-btn-hover-border-color: var(--primary-color) !important; */
+  /* --bs-btn-focus-shadow-rgb: var(--accent-color) !important; */
+  --bs-btn-active-color: var(--dominant-color) !important;
+  --bs-btn-active-bg: var(--primary-color) !important;
+  --bs-btn-active-border-color: var(--accent-color)!important;
+}
